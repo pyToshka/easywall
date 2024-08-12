@@ -1,17 +1,4 @@
-# easywall [![GitHub Actions Build](https://img.shields.io/github/workflow/status/jpylypiw/easywall/pytest)](https://github.com/jpylypiw/easywall/actions) [![Coveralls github](https://img.shields.io/coveralls/github/jpylypiw/easywall)](https://coveralls.io/github/jpylypiw/easywall) [![GitHub license](https://img.shields.io/github/license/jpylypiw/easywall)](https://github.com/jpylypiw/easywall/blob/master/LICENSE)
-
-[![Release Version](https://img.shields.io/github/v/release/jpylypiw/easywall)](https://github.com/jpylypiw/easywall)
-[![Python Version](https://img.shields.io/pypi/pyversions/easywall)](https://github.com/jpylypiw/easywall)
-[![Repo Size](https://img.shields.io/github/repo-size/jpylypiw/easywall.svg)](https://github.com/jpylypiw/easywall)
-[![Release Status](https://img.shields.io/pypi/status/easywall)](https://github.com/jpylypiw/easywall)
-[![Security Headers](https://img.shields.io/security-headers?url=https%3A%2F%2Fdev01vt.wdkro.de%3A12227)](https://github.com/jpylypiw/easywall)
-[![Discord Support](https://img.shields.io/discord/819293895045283930)](https://discord.gg/3zJMvChvUA)
-
-[![Pypi Download](https://img.shields.io/badge/download-pypi-yellowgreen)](https://pypi.org/project/easywall/)
-[![APT Download](https://img.shields.io/badge/download-apt-yellowgreen)](https://apt.wdkro.de/)
-[![GitHub Download](https://img.shields.io/badge/download-github-yellowgreen)](https://github.com/jpylypiw/easywall/releases/latest)
-
----
+# Based on https://github.com/jpylypiw/easywall, original repository has been moved to archive 
 
 **Firewalls** are becoming increasingly important in today's world. Hackers and automated scripts are constantly trying to **invade your system** and use it for Bitcoin mining, botnets or other things.
 
